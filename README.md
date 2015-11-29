@@ -9,4 +9,4 @@ Demo列表：
 
 微信公众号：iOSTalk，分享一些iOS小知识，扫码即可关注
 
-![image](https://github.com/iostalks/iOSTalkDemo/blob/master/订阅号二维码.jpg)
+![image](https://github.com/iostalks/iOSTalkDemo/blob/master/微信公众号iOSTalk.png)
